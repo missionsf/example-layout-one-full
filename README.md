@@ -6,7 +6,12 @@
 
 [One-column full-width responsive layout](https://github.com/russmaxdesign/example-layout-one-full) uses the following file structure:
 
-	styles.css
+	assets/
+		css/
+			styles.css
+		img/
+			apple-touch-icon.png
+	favicon.ico
 	index.html
 	licence.md
 	readme.md
